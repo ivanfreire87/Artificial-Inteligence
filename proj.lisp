@@ -142,7 +142,7 @@
 				   :pontosjogador1 0
 				   :pontosjogador2 0
 				   :proxjogador 1
-				   :fiosremovidos nil))
+				   :fiosremovidos nil)) 
 				   
 (defun copia-jogo(jogo)
 	(make-joguinho :estado (copia-tabuleiro (joguinho-estado jogo))
