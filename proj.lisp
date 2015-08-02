@@ -22,7 +22,7 @@
 	
 	
 (defun posicao-coluna(pos)
-	(pos-coluna pos))
+	(pos-coluna pos)) 
 
 (defun posicao-p(x)
 	(pos-p x))
